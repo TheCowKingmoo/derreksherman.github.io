@@ -41,16 +41,20 @@ roles:
 #Education is required
 education:
  - level: Bachelor of Science (B.Sc.)
-   date: 2021
+   date: 2020
    subject: Computer Science
    school: University of California, San Diego
+ - level: Associate (A.S.)
+   date: 2018
+   subject: Computer Science
+   school: San Diego Mesa Community College
 
 #List of interesting Github repo/projects to include - optional
 github:
  - cse112-sp20/CSE112-Neon
 
 intro: |
-  I am currently a CS Student at UCSD. I used to work in the IT industry(mostly for the Navy) but have decided to move on to software development.<br/><br/>
+  I am currently a CS Student at UCSD with a grad date of Decemeber 2020. I used to work in the IT industry(mostly for the Navy) but have decided to move on to software development.<br/><br/>
   I enjoy poking my fingers at different technologies. I enjoy the outdoors, Dungeons and Dragons, and video games.<br/><br/>
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
